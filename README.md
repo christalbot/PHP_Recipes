@@ -10,9 +10,9 @@ PHP_Recipes has been designed for use on a local web server (i.e behind a firewa
 
 Requirements
 ------------
-Web Server (e.g Apache httpd)
-PHP - v5.3.0+ (MySQLi extension)
-MySQL - v5.7+
+- Web Server (e.g Apache httpd)
+- PHP - v5.3.0+ (MySQLi extension)
+- MySQL - v5.7+
 
 
 
