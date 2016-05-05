@@ -1,5 +1,3 @@
-# PHP_Recipes
-
 PHP_Recipes
 ===========
 PHP_Recipes is a simple and elegent web app designed to work on a home web server. 

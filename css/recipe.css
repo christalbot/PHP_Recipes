@@ -1,0 +1,80 @@
+@charset "utf-8";
+body{
+	/*font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;*/
+	/*font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;*/
+	/*font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;*/
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	/*font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+	/*font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;*/
+	/*font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;*/
+	/*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;*/
+	/*font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;*/
+}
+a,a:visited{
+	color: #000000;
+	text-decoration: none;
+}
+a:hover{
+	color: #4680B7;
+	text-decoration: none;
+}
+.recipe-main-container{
+	border: 1px solid #CCC;
+	border-radius: 5px;
+	padding: 10px;
+}
+.recipe-row{
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	background-color: #236E6A
+}
+.recipe-col{
+	background-color: #eee;
+}
+.col{
+	background-color: #eee;
+}
+#addIngHeaderRow{
+	border: none;
+	margin-left: 15px;
+}
+.widthx{
+	min-width: 0px !important;
+}
+.txtSmallItalicBold{
+	font-weight: 600;
+	font-style: italic;
+	font-size: medium;
+	color: #999;
+}
+.no-border{
+	border: none;
+}
+.add-recipe-main-container{
+	border: 1px solid #000;
+	border-radius: 5px;
+	padding: 10px;
+	border-color: #CCC;
+	background-color: #EEE;
+	margin: 5px;
+}
+#ing_g0_head_0, #dir_g0_head_0{
+	display: none;
+}
+.ingredientRow{
+}
+
+.ingredientRowItem{
+}
+.unit{
+	font-size: smaller;
+}
+.installInst{
+	white-space: pre-wrap;       /* css-3 */
+	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
