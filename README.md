@@ -19,3 +19,9 @@ Requirements
 Installation
 ------------
 To install PHP_Recipes you will need to edit the file 'user-options.php' in the 'includes' directory. Here you need to at the very least set the 4 database settings needed to connect to your database, server name (i.e localhost) username, password and database name. You can leave the database name to the default value and use the file 'Create_Database.sql' to create the neccessary database and tables. You can also use the file 'Insert_Data.sql' (after using other file first) to insert some recipes immediately for use. The site should now work right out of the box if you browse to the root folder in your web browser (i.e http://localhost/php_recipes ).
+
+
+Links
+-----
+GitHub - https://github.com/christalbot/PHP_Recipes
+HomePage - http://cv.turtle1980.com/phprecipes.php
