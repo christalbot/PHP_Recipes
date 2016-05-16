@@ -23,5 +23,5 @@ To install PHP_Recipes you will need to edit the file 'user-options.php' in the 
 
 Links
 -----
-GitHub - https://github.com/christalbot/PHP_Recipes
-HomePage - http://cv.turtle1980.com/phprecipes.php
+- GitHub - https://github.com/christalbot/PHP_Recipes
+- HomePage - http://cv.turtle1980.com/phprecipes.php
